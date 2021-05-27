@@ -8,12 +8,12 @@ sh 'mvn clean'
 }
 
 }
-stage ('maven test){
+stage ('maven test'){
 steps{
 sh 'mvn test'
 }
 }
-stage('maven package){
+stage('maven package'){
 steps{
 sh 'mvn package'
 }
