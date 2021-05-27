@@ -1,4 +1,4 @@
-package honey-maven;
+package honeymaven;
 
 /**
  * Hello world!
